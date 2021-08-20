@@ -64,3 +64,6 @@ db.sqlite3
 
 # Uploaded files
  uploads/
+
+ node_modules
+ 
